@@ -7,7 +7,7 @@ HTTP é um protocolo de comunicação utilizado para sistemas de informação de
 
 * **HTTPS: Camada adicional de segurança**
 
-### Melhorias do HTTP2
+### Melhorias do HTTP2 ↗️
 
 * Corpo da resposta comprimido pelo GZIP // Dados mais leves.
 * Request e Response:
@@ -15,7 +15,7 @@ HTTP é um protocolo de comunicação utilizado para sistemas de informação de
   * Foram comprimidos com HPACK
 * Camadas de TLS (Segurança) agora é o padrão.
 
-### URL: O caminho 
+### URL: O caminho 🗺️
 
 Um URL se refere ao endereço de rede no qual se encontra algum recurso informático, como por exemplo um arquivo de computador ou um dispositivo periférico.
 
@@ -27,7 +27,7 @@ Ex: https://compassouol.com/
 
 MongoDB é um banco de dados orientado a documentos que armazena dados em documentos **JSON** com esquema dinâmico. Isso significa que você **pode armazenar** seus registros **sem se preocupar com a estrutura de dados**, como o número de campos ou tipos de campos para armazenar valores. **Os documentos do MongoDB são semelhantes** aos objetos **JSON**.
 
-### COMO É UM ARQUIVO JSON: 
+### COMO É UM ARQUIVO JSON:
 
 ```json
 {“endereco”: [
