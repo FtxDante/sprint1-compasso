@@ -15,7 +15,7 @@ HTTP é um protocolo de comunicação utilizado para sistemas de informação de
   * Foram comprimidos com HPACK
 * Camadas de TLS (Segurança) agora é o padrão.
 
-## URL: Como chegamos em um servidor.
+### URL: O caminho 
 
 Um URL se refere ao endereço de rede no qual se encontra algum recurso informático, como por exemplo um arquivo de computador ou um dispositivo periférico.
 
