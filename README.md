@@ -53,7 +53,7 @@ MongoDB é um banco de dados orientado a documentos que armazena dados em docume
 
 Essa **linguagem de programação** foi criada para que os programadores pudessem **acessar**, **consultar** e **modificar** os dados estruturais de uma empresa ou organização.
 
-Uma programação baseada em SQL pode ser usada para realizar tarefas complexas, como por exemplo, **escrever queries** e **fazer consultas** ou **manipulações**. Também podem executar tarefas simples em tabelas:
+Uma programação baseada em SQL pode ser usada para realizar tarefas complexas, como por exemplo, **escrever queries** e fazer consulta ou **manipulações**. Também podem executar tarefas simples em tabelas:
 
 - Insert (inserir);
 - Delete (excluir);
