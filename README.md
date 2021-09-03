@@ -39,7 +39,7 @@ MongoDB é um banco de dados orientado a documentos que armazena dados em docume
 ]};
 ```
 
-## Vantagens do MongoDB
+### Vantagens do MongoDB
 
 - ✔️ Utilizando MongoDB **temos uma melhor performance**, visto que uma única consulta retorna tudo o que precisamos saber sobre o documento.
 - ✔️ Os bancos de dados **NoSQL** vão apresentar sempre muitas vantagens sobre os outros quando o assunto for necessidade. Trará assim a **escalabilidade**, **flexibilidade** e também o** desempenho** e uma **facilidade para as consultas**.
