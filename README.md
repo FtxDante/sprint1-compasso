@@ -47,3 +47,33 @@ MongoDB é um banco de dados orientado a documentos que armazena dados em docume
 
 
 
+## :large_blue_circle: SQL e MySQL 
+
+### SQL (Structured Query Language)
+
+Essa **linguagem de programação** foi criada para que os programadores pudessem **acessar**, **consultar** e **modificar** os dados estruturais de uma empresa ou organização.
+
+Uma programação baseada em SQL pode ser usada para realizar tarefas complexas, como por exemplo, **escrever queries** e **fazer consultas** ou **manipulações**. Também podem executar tarefas simples em tabelas:
+
+- Insert (inserir);
+- Delete (excluir);
+- Update (atualizar);
+- Search (pesquisar).
+
+#### Tipos de comandos:
+
+- DML – Data Manipulation Language: **comandos que alteram informações nas tabelas, seja para inserir ou excluir dados (ex: select, delete e insert);**
+
+- DDL – Data Definition Language: são comandos que modificam o banco de dados (ex: drop – apaga algum objeto e create – permite a criação de novos objetos);
+
+- DCL – Data Control Language: é o grupo responsável pelas permissões, restrições ou bloqueios (ex: grant – permite o acesso e/ou modificações no banco de dados);
+
+- DTL – Linguagem de Transição de Dados: é responsável por salvar as alterações feitas pelos usuários (ex: commit – autoriza que as alterações sejam salvas).
+
+### MySQL
+
+MySQL é um sistema de gerenciamento de Banco de Dados
+
+#### Similaridades entre bancos de dados SQL:
+
+São elas: **tabelas** para armazenar dados, **referências a chaves primárias** e **externas**, assim como **múltiplos bancos de dados** dentro de um único ambiente ou servidor. 
